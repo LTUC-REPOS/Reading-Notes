@@ -25,7 +25,7 @@
 <br>
 
 #
-### &nbsp;
+### 
 
 #### 
  <ol>
@@ -47,3 +47,13 @@
 
 
 >[Reference](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+
+<br>
+<br>
+<br><br>
+<br>
+<br>
+
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="400" height="400" />
