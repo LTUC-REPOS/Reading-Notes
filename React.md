@@ -95,3 +95,11 @@
 <br>
 
 <p> Is a uni-directional flow. From parent to childs. </p>
+
+<br>
+<br>
+
+# Questions : 
+
+## Why Arrow functions heavily used in react
+## What do we mean by data flows from parent to child
