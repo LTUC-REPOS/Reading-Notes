@@ -14,7 +14,7 @@
 
 <br>
 
- ##  __What are the characteristics of a component?__
+##   __What are the characteristics of a component?__
  
  <br>
  <ol>
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-  ##  __What are the advantages of using component-based architecture?__
+##  __What are the advantages of using component-based architecture?__
 
 
   
