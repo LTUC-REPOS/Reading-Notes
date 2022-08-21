@@ -3,6 +3,50 @@
 <br>
 <br>
 
+
+## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+
+<br>
+
+> Render  Excutes First
+<br>
+
+<br>
+
+# What is the very first thing to happen in the lifecycle of React?
+
+<br>
+
+> In the Mounting Phase , constructor comes first.
+
+<br>
+
+
+# Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
+
+<br>
+
+<ol>
+
+### <li>Constructor</li>
+###  <li>Render</li>
+### <li>React Updates</li>
+### <li>componentDidMount</li>
+### <li>componentWillUnmount</li>
+</ol>
+
+<br>
+
+# What does componentDidMount do?
+
+<br>
+
+> Its used to load anything using network request or initialize the DOM
+
+<br>
+<br>
+<br>
+
 ## What types of things can you pass in the props?
 
 <br>
