@@ -29,10 +29,14 @@
 <ol>
 
 ### <li>Constructor</li>
+
 ###  <li>Render</li>
+
 ### <li>React Updates</li>
+
 ### <li>componentDidMount</li>
 ### <li>componentWillUnmount</li>
+
 </ol>
 
 <br>
@@ -82,3 +86,8 @@
 > any valid javascript data type
 
 <br>
+
+
+## Things I want to know more about
+
+> How we use  life cycle events practically
