@@ -22,3 +22,8 @@
 <br>
 
 ##  Class 2    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ State and Props](ReactProps.md)
+
+
+<br>
+
+##  Class 3    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Passing Functions as Props](ReactFunProps.md)
