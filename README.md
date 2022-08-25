@@ -31,3 +31,7 @@
 <br>
 
 ##  Class 4    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ React And Forms ](ReactNForms.md)
+
+<br>
+
+##  Class 5    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Putting All Together ](puttingTogether.md)
