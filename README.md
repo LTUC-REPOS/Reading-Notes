@@ -39,3 +39,7 @@
 <br>
 
 ##  Class 6    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Node.Js ](NodeJs.md)
+
+<br>
+
+##  Class 6    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ REST ](Requests.md)
