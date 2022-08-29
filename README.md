@@ -42,4 +42,8 @@
 
 <br>
 
-##  Class 6    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ REST ](Requests.md)
+##  Class 7    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ REST ](Requests.md)
+
+<br>
+
+##  Class 8    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ API's ](APIs.md)
