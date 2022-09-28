@@ -57,4 +57,37 @@
 
 ##  Class 10    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Mongo and Mongoose ]( mongo.md)
 
+<br>
+
 ##  Class 12    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  CRUD ]( CRUD.md)
+
+
+
+
+
+<br>
+<br>
+
+
+# __Code 401 - Advanced Software Development__
+
+
+<br>
+
+
+> [GitHub Repo](https://github.com/Slow-Res/my-notes)
+
+<br>
+<br>
+
+
+
+<br>
+
+##  Class 1    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Intro to Python ]( introPython.md)
+
+
+
+<br>
+
+##  Class 2    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Testing and Modules ]( testingModules.md)
