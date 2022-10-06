@@ -91,3 +91,8 @@
 <br>
 
 ##  Class 2    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Testing and Modules ]( testingModules.md)
+
+
+<br>
+
+##  Class 3    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Whiteboarding + Big O ]( bigo.md)
