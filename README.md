@@ -96,3 +96,7 @@
 <br>
 
 ##  Class 3    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Whiteboarding + Big O ]( bigo.md)
+
+<br>
+
+##  Class 4    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  FileIO & Exceptions ]( files.md)
