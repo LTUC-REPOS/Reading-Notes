@@ -105,3 +105,7 @@
 <br>
 
 ##  Class 5    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  OOP ]( oop.md)
+
+<br>
+
+##  Class 6    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  OOP2 ]( oop2.md)
