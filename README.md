@@ -109,3 +109,8 @@
 <br>
 
 ##  Class 6    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  OOP2 ]( oop2.md)
+
+
+<br>
+
+##  Class 7    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Data Analysis ](numpy.md)
