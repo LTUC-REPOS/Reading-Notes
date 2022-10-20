@@ -114,3 +114,14 @@
 <br>
 
 ##  Class 7    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [  Data Analysis ](numpy.md)
+
+
+
+<br>
+
+##  Class 8    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Pandas Analysis ](Pandas.md)
+
+
+<br>
+
+##  Class 9    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Linked List ](LinkedList.md)
