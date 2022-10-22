@@ -125,3 +125,7 @@
 <br>
 
 ##  Class 9    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Linked List ](LinkedList.md)
+
+<br>
+
+##  Class 10    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Linear Regression ](linear.md)
