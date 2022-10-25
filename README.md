@@ -129,3 +129,8 @@
 <br>
 
 ##  Class 10    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Linear Regression ](linear.md)
+
+
+<br>
+
+##  Class 11    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Data Visualization ](seaborn.md)
