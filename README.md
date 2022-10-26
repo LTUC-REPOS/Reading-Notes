@@ -134,3 +134,8 @@
 <br>
 
 ##  Class 11    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Data Visualization ](seaborn.md)
+
+
+<br>
+
+##  Class 12    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Stack](Stack.md)
