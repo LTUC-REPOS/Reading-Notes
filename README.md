@@ -138,4 +138,4 @@
 
 <br>
 
-##  Class 12    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Stack](Stack.md)
+##  Class 12    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Stack](stack.md)
