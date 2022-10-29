@@ -2,7 +2,9 @@
 
 
 - What is serverless?
+
 ```angular2html
+
 A serverless function is a programmatic function written by a software developer for a single purpose.
 it's hosted and maintained on cloud infrastructure companies like Amazon AWS and Microsoft Azure.
 Users don't need to worry about code maintenance and execution environment, cloud take care of all that.
@@ -31,10 +33,12 @@ Users don't need to worry about code maintenance and execution environment, clou
 - http.server uses classes from socketserver to create base classes for making HTTP servers.
 - BaseHTTPRequestHandler can handle each protocol method (GET, POST, etc.).
 
-**Get( ) method sample code**
+** Get( ) method sample code **
 
 class handler(BaseHTTPRequestHandler):
+
 ```angular2html
+
 def do_GET(self):
         self.send_response(200)
         self.send_header("content-type", "text/plain")
@@ -44,7 +48,9 @@ def do_GET(self):
         return
 
 ```
+
 ### Requests
+
 - Requests allow users to send HTTP/1.1 requests extremely easy, together with ```urllib3``` , we can"Keep-Alive & Connection Pooling".   
 
 ### Vercel
