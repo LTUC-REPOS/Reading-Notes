@@ -66,7 +66,7 @@ from bs4 import BeautifulSoup
 ```
 - set url for request access
 ```angular2html
-url = 'http://sample.com/a.html'
+url = 'weather.api'
 response = requests.get(url)
 ```
 -Parse html with BeautifulSoup
