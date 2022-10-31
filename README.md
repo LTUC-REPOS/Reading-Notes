@@ -144,3 +144,7 @@
 <br>
 
 ##  Class 13    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Serverless Functions](serverless.md)
+
+<br>
+
+##  Class 13    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Web Scrapping ](scrapping.md)
