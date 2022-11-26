@@ -162,4 +162,8 @@
 
 ##  Class 16    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Automation ](automation.md)
 
+<br>
+
+##  Class 17    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django ](django.md)
+
 
