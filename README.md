@@ -166,4 +166,8 @@
 
 ##  Class 17    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django ](django.md)
 
+<br>
+
+##  Class 18    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django Models ](models.md)
+
 
