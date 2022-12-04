@@ -170,4 +170,8 @@
 
 ##  Class 18    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django Models ](models.md)
 
+<br>
+
+##  Class 19    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django CRUD ](crud.md)
+
 
