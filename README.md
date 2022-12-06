@@ -174,4 +174,8 @@
 
 ##  Class 19    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django CRUD ](crud.md)
 
+<br>
+
+##  Class 20    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Django Custom User Model ](user.md)
+
 
