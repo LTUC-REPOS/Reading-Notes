@@ -184,6 +184,6 @@
 
 <br>
 
-##  Class 23    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Graphs ](grahps.md)
+##  Class 23    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Graphs ](graphs.md)
 
 
