@@ -2,7 +2,6 @@
 
 <hr>
 
-<br>
 
 ##  common terminology  of a graph: 
 - Vertex - A vertex, also called a “node”, is a data object that can have zero or more adjacent vertices.
