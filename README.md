@@ -186,4 +186,10 @@
 
 ##  Class 23    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Graphs ](graphs.md)
 
+<br>
+
+##  Class 24    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ JWT ](jwt.md)
+
+
+
 
