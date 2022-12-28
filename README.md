@@ -201,4 +201,10 @@
 
 
 
+<br>
+
+##  Class 31    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ NextJs and Tailwind  ](nextjs.md)
+
+
+
 
