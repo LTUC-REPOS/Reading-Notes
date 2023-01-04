@@ -205,6 +205,14 @@
 
 ##  Class 31    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ NextJs and Tailwind  ](nextjs.md)
 
+<br>
+
+##  Class 32    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Hooks  ](hooks.md)
+
+<br>
+
+##  Class 33    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Context-Redux  ](context.md)
+
 
 
 
