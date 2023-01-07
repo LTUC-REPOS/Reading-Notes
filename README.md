@@ -213,6 +213,9 @@
 
 ##  Class 33    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Context-Redux  ](Context.md)
 
+<br>
+
+##  Class 34    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;     [ Authentication ](auth.md)
 
 
 
